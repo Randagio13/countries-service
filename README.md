@@ -2,9 +2,9 @@
   
 # Countries Service
 
-[![NPM](https://nodei.co/npm/countries-service.png?compact=true)](https://nodei.co/npm/countries-service/)
+[![NPM](https://nodei.co/npm/@ac-dev/countries-service.png?compact=true)](https://nodei.co/npm/@ac-dev/countries-service/)
 <br />
-[![](https://img.shields.io/npm/dt/countries-service.svg?style=flat-square)](https://www.npmjs.com/package/countries-service)
+[![](https://img.shields.io/npm/dt/@ac-dev/countries-service.svg?style=flat-square)](https://www.npmjs.com/package/@ac-dev/countries-service)
 
 </div>
 

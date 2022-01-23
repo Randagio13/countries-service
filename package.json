@@ -1,7 +1,7 @@
 {
   "name": "countries-service",
   "author": "Alessandro Casazza",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the World's countries",
   "repository": "https://github.com/Randagio13/countries-service.git",
   "license": "MIT",

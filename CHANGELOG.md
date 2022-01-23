@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Randagio13/countries-service/compare/v1.1.0...v1.1.1) (2022-01-23)
+
+
+### Bug Fixes
+
+* Set public access ([5d0ea4a](https://github.com/Randagio13/countries-service/commit/5d0ea4acfb48f217f8344b1e4b6f45440f464dda))
+
 # [1.1.0](https://github.com/Randagio13/countries-service/compare/v1.0.0...v1.1.0) (2022-01-23)
 
 

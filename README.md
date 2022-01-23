@@ -36,10 +36,10 @@ Countries States Cities Service is available as an npm package.
 
 ```bash
 # npm
-npm install countries-service
+npm install @ac-dev/countries-service
 
 # yarn
-yarn add countries-service
+yarn add @ac-dev/countries-service
 ```
 
 ### Import
@@ -47,7 +47,7 @@ yarn add countries-service
 Import single named import as follow:
 
 ```typescript
-import { Countries } from 'countries-service'
+import { Countries } from '@ac-dev/countries-service'
 ```
 
 ## Usage

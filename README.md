@@ -1,6 +1,6 @@
 <div align="center">
   
-# Countries States Cities Service
+# Countries Service
 
 [![NPM](https://nodei.co/npm/countries-service.png?compact=true)](https://nodei.co/npm/countries-service/)
 <br />

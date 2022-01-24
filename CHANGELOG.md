@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Randagio13/countries-service/compare/v1.1.2...v1.1.3) (2022-01-24)
+
+
+### Bug Fixes
+
+* Force module export ([4302448](https://github.com/Randagio13/countries-service/commit/4302448e30f7f52a03fdd5c4d62fb3a1e27c26a2))
+
 ## [1.1.2](https://github.com/Randagio13/countries-service/compare/v1.1.1...v1.1.2) (2022-01-24)
 
 

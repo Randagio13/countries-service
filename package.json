@@ -5,7 +5,7 @@
   "description": "Get the World's countries",
   "repository": "https://github.com/Randagio13/countries-service.git",
   "license": "MIT",
-  "main": "lib/index.js",
+  "module": "lib/index.js",
   "typings": "lib/index.d.ts",
   "keywords": [
     "world",

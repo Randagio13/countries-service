@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Randagio13/countries-service/compare/v1.1.1...v1.1.2) (2022-01-24)
+
+
+### Bug Fixes
+
+* JSON path ([12e5d65](https://github.com/Randagio13/countries-service/commit/12e5d6590b1cd58a5700c3277583e30aaf3f027a))
+
 ## [1.1.1](https://github.com/Randagio13/countries-service/compare/v1.1.0...v1.1.1) (2022-01-23)
 
 

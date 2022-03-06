@@ -1,4 +1,4 @@
-// @ts-nocheck
+// @ts-ignore
 import countries from './data/countries.json'
 import { dataFiltered, sorter } from './utils'
 
@@ -76,7 +76,7 @@ export function getCountries(args?: Args): Countries {
   let data = countries as Countries
   if (args?.filters !== undefined) {
     const { filters } = args
-    data = dataFiltered(data, filters)
+    data = dataFiltered(data, filters as any)
   }
   if (args?.locale !== undefined) {
     const { locale } = args

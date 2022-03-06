@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/Randagio13/countries-service/compare/v1.1.3...v1.2.0) (2022-03-06)
+
+
+### Bug Fixes
+
+* Data JSON path ([4fac7b5](https://github.com/Randagio13/countries-service/commit/4fac7b512744a7f6d4d45984b83101b8edaa02e4))
+
+
+### Features
+
+* Add CJS version ([e281aa6](https://github.com/Randagio13/countries-service/commit/e281aa6e4e8d2a2486d9a733602ab83a92eefef2))
+
 ## [1.1.3](https://github.com/Randagio13/countries-service/compare/v1.1.2...v1.1.3) (2022-01-24)
 
 
